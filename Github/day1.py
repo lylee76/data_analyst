@@ -14,5 +14,13 @@
 # git add. //add all the files to git at once
 # 3. Connect git and github repo
 # git remote add origin {SSH_key}
+# 4. Commit the changes to github
+# git commit -m "Message"
+# 5. Push the changes to github
+# git push -u origin {branch_name} => always do this for 1st push
+# -u => Upstream stores the branch_name so that next push will be in the same branch
+# git push => push in the same branch
+# git push origin => It is reccommended after the 1st push
+#
 
 
