@@ -10,3 +10,11 @@
 # to switch between branches
 # git switch {branch_name}
 # git checkout {branch_name}
+
+# PR => Pull request is the request made to owner of github to accept and merge ur
+# ur changes to main branch
+
+# to pull from github to your machine
+# git pull origin {branch_name}
+
+
